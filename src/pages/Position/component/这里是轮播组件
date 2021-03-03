@@ -1,0 +1,15 @@
+/**
+ *Carousel： 走马灯
+ *    autoplay      自动切换
+ *    dotPosition   面板指示点位置, 排列方向
+ *    autoplaySpeed 轮播时间
+ *    dots  false   不显示面板指示点
+ *----------*------------*-----------*
+ *List:      列表
+ *    dataSource    列表数据源
+ *    renderItem    自定义渲染列表项
+ *----------*------------*------------*
+ * data   父组件传来的列表数据
+ */
+
+
